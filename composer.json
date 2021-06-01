@@ -1,0 +1,19 @@
+{
+  "name": "lanlin/phptars-ide-helper",
+  "description": "IDE Helper For PHPTars Extension",
+  "license": "MIT",
+  "authors" : [
+    {
+      "name": "lanlin",
+      "email": "lanlin1987@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.0"
+  }
+}
