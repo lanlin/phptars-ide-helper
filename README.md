@@ -1,2 +1,2 @@
 # phptars-ide-helper
-IDE Helper For PHP Tars Extension
+IDE Helper For PHPTars Extension
